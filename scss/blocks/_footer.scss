@@ -1,0 +1,138 @@
+footer {
+  display: inline-block;
+  box-sizing: border-box;
+  position: absolute;
+  background: #f3f3f3;
+  border: 1px solid #ebebeb;
+  width: 1685px;
+  height: 221px;
+  margin-top: 1000px;
+
+  .footer__logo-2 {
+    width: 158px;
+    padding-left: 65px;
+    margin-top: 55px;
+  }
+
+  .footer__last-list {
+    display: inline-block;
+  }
+
+  .footer__last-class {
+    font-weight: 500;
+    font-size: 16px;
+    padding-left: 67px;
+    margin: 14px;
+    line-height: 21px;
+    color: #333333;
+  }
+
+  .footer__last-class:hover {
+    color: #ffbd54;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+  }
+
+  .footer__last-ul {
+    display: inline-block;
+    padding-left: 100px;
+  }
+
+  .footer__last-li {
+    font-weight: 500;
+    font-size: 16px;
+    margin: 14px;
+    line-height: 21px;
+    color: #333333;
+  }
+
+  .footer__last-li:hover {
+    color: #ffbd54;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+  }
+}
+
+.footer__div {
+  margin-top: -100px;
+  padding-left: 600px;
+}
+
+.footer__timer {
+  width: 16px;
+  padding-left: 127px;
+}
+
+.footer__date {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  color: #333333;
+}
+
+.footer__text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  padding-left: 145px;
+  margin-top: 3px;
+  color: #333333;
+}
+
+.footer__div-2 {
+  padding-left: 1000px;
+  margin-top: -35px;
+}
+
+.footer__house {
+  width: 17px;
+}
+
+.footer__adress {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  align-items: center;
+  color: #333333;
+}
+
+.footer__last-div {
+  padding-left: 1400px;
+  margin-top: -20px;
+}
+
+.footer__svg {
+  width: 16px;
+}
+
+.footer__number {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  color: #333333;
+}
+
+.footer__p {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  color: #333333;
+}
+
+.footer__last-span {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  padding-left: 1400px;
+  margin-top: 63px;
+  color: #5c5c5c;
+}

@@ -1,0 +1,206 @@
+h2 {
+  background-color: $main;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 54px;
+  display: flex;
+  align-items: center;
+  padding-top: 191px;
+  padding-left: 700px;
+  color: #333333;
+}
+
+@media only screen and (max-width: 1100px) {
+  h2 {
+    margin-left: -500px;
+    font-size: 20px;
+  }
+}
+
+.vector {
+  width: 14px;
+  padding-top: 174px;
+  padding-left: 65px;
+}
+
+.inspection {
+  box-sizing: border-box;
+  position: absolute;
+  width: 193px;
+  height: 201px;
+  background-color: #ffffff;
+  margin-top: -130px;
+  margin-left: 109px;
+}
+
+@media only screen and (max-width: 1100px) {
+  .inspection {
+    margin-left: 150px;
+  }
+}
+
+.doctor {
+  width: 54px;
+  padding-top: 30px;
+  margin-left: 71px;
+}
+
+.primary {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  align-items: center;
+  margin-left: -680px;
+  color: #333333;
+}
+
+@media screen, (max-width: 1190px) {
+  .primary {
+    font-size: 15px;
+  }
+}
+
+.love {
+  background: #ffffff;
+  border: 1px solid #f3f3f3;
+  border-radius: 5px;
+  box-sizing: border-box;
+  left: 320px;
+  top: 1965px;
+  position: absolute;
+  width: 193px;
+  height: 201px;
+}
+
+@media only screen and (max-width: 1100px) {
+  .love {
+    margin-top: -945px;
+    margin-left: 50px;
+  }
+}
+
+.mask {
+  width: 61px;
+  margin-left: 65px;
+  margin-top: 30px;
+}
+
+.primary-2 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  align-items: center;
+  margin-left: -680px;
+  color: #333333;
+}
+
+@media screen, (max-width: 1190px) {
+  .primary-2 {
+    font-size: 15px;
+  }
+}
+
+.surgeon {
+  background: #ffffff;
+  border: 1px solid #f3f3f3;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-left: 530px;
+  margin-top: -130px;
+  position: absolute;
+  width: 193px;
+  height: 201px;
+}
+
+@media only screen and (max-width: 1100px) {
+  .surgeon {
+    margin-left: 590px;
+  }
+}
+
+.dermotology {
+  box-sizing: border-box;
+  position: absolute;
+  width: 193px;
+  height: 201px;
+  left: 740px;
+  top: 1965px;
+  background: #ffffff;
+  border: 1px solid #f3f3f3;
+  border-radius: 5px;
+}
+
+@media only screen and (max-width: 1100px) {
+  .dermotology {
+    margin-top: -700px;
+    margin-left: -590px;
+  }
+}
+
+.primary-3 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  align-items: center;
+  margin-left: -680px;
+  color: #333333;
+  margin-top: 10px;
+}
+
+@media screen, (max-width: 1190px) {
+  .primary-3 {
+    font-size: 15px;
+  }
+}
+
+.laboratory {
+  box-sizing: border-box;
+  position: absolute;
+  width: 193px;
+  height: 201px;
+  left: 950px;
+  top: 1965px;
+  background: #ffffff;
+  border: 1px solid #f3f3f3;
+  border-radius: 5px;
+}
+
+@media only screen and (max-width: 1100px) {
+  .laboratory {
+    margin-top: -700px;
+    margin-left: -580px;
+  }
+}
+
+.ophtalmology {
+  box-sizing: border-box;
+  position: absolute;
+  width: 193px;
+  height: 201px;
+  left: 1160px;
+  top: 1965px;
+  background: #ffffff;
+  border: 1px solid #f3f3f3;
+  border-radius: 5px;
+}
+
+@media only screen and (max-width: 1100px) {
+  .ophtalmology {
+    margin-top: -700px;
+    margin-left: -570px;
+  }
+}
+
+.vector-2 {
+  width: 14px;
+  margin-left: 1400px;
+}
+
+@media only screen and (max-width: 1190px) {
+  .vector-2 {
+    display: none;
+  }
+}

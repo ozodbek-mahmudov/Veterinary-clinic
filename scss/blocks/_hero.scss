@@ -1,0 +1,99 @@
+.main {
+  background-color: $main;
+}
+
+.pets {
+  width: 1768px;
+}
+
+@media only screen and (max-width: 1100px) {
+  .pets {
+    width: 500px;
+    padding-top: 90px;
+  }
+}
+
+.main__care {
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 64px;
+  color: #333333;
+}
+
+@media only screen and (max-width: 1100px) {
+  .main__care {
+    font-size: 20px;
+    padding-top: 550px;
+    margin-left: -750px;
+  }
+}
+
+.main__care-2 {
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 64px;
+  color: #78c0de;
+}
+
+@media only screen and (max-width: 1100px) {
+  .main__care-2 {
+    margin-top: -40px;
+    font-size: 20px;
+    margin-left: -750px;
+  }
+}
+
+.main__information {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #949494;
+  margin-right: 150px;
+  padding-top: 29px;
+}
+
+@media only screen and (max-width: 1100px) {
+  .main__information {
+    margin-left: -750px;
+    font-size: 8px;
+    margin-top: -40px;
+    margin-right: 600px;
+  }
+}
+
+.main__btn {
+  position: absolute;
+  width: 181px;
+  height: 50px;
+  background: #333333;
+  margin-top: 38px;
+  border-radius: 3px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+@media only screen and (max-width: 1100px) {
+  .main__btn {
+    margin-left: -750px;
+    width: 90px;
+    height: 40px;
+    font-size: 8px;
+  }
+}
+
+.main__btn:hover {
+  background-color: #ffbd54;
+  color: #000000;
+  transition: 1.5s;
+  -webkit-transition: 1.5s;
+  -moz-transition: 1.5s;
+  -ms-transition: 1.5s;
+  -o-transition: 1.5s;
+}
+
+.main__pets {
+  padding-left: 1000px;
+  margin-top: -800px;
+}
